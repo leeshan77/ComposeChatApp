@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyComposeChatApp</string>
+
+    <!-- BottomBar Screens -->
+    <string name="friend">Friend</string>
+    <string name="chats">Chats</string>
+    <string name="profile">Profile</string>
+
+    <!-- Alert Dialog -->
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+
+    <!-- LoginScreen and SignUpScreen -->
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="create_your_account">Create your account</string>
+    <string name="dont_have_an_account">Don\'t have an account?</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="nick_name">Nick name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+
+    <!-- ChatScreen -->
+    <string name="message">Message</string>
+</resources>

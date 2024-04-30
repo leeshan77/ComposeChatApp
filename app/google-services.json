@@ -1,0 +1,181 @@
+{
+  "project_info": {
+    "project_number": "977275478750",
+    "project_id": "fir-nodi",
+    "storage_bucket": "fir-nodi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977275478750:android:f3cfe505a28270c02c984f",
+        "android_client_info": {
+          "package_name": "com.kolee.mychatwithme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmSBdMPdrXqE_2eFkjWJROACFL9xRTXj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977275478750:android:2abb511c35b7365e2c984f",
+        "android_client_info": {
+          "package_name": "com.kolee.mycomposechatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmSBdMPdrXqE_2eFkjWJROACFL9xRTXj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977275478750:android:b92ef4009680083c2c984f",
+        "android_client_info": {
+          "package_name": "com.kolee.mymakeitso"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmSBdMPdrXqE_2eFkjWJROACFL9xRTXj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977275478750:android:6bd817bc37892e1d2c984f",
+        "android_client_info": {
+          "package_name": "com.kolee.mysimplechatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmSBdMPdrXqE_2eFkjWJROACFL9xRTXj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977275478750:android:e1428ed980968a822c984f",
+        "android_client_info": {
+          "package_name": "com.kolee.newbegochat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmSBdMPdrXqE_2eFkjWJROACFL9xRTXj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977275478750:android:4ae48125d075f8762c984f",
+        "android_client_info": {
+          "package_name": "com.kolee.newbooksfirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmSBdMPdrXqE_2eFkjWJROACFL9xRTXj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977275478750:android:7359d98979907d2a2c984f",
+        "android_client_info": {
+          "package_name": "com.kolee.newmakeitso"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmSBdMPdrXqE_2eFkjWJROACFL9xRTXj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977275478750:android:10bdf1d6bc41797f2c984f",
+        "android_client_info": {
+          "package_name": "com.kolee.newsimplechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmSBdMPdrXqE_2eFkjWJROACFL9xRTXj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977275478750:android:800cd11be5b4f7662c984f",
+        "android_client_info": {
+          "package_name": "com.kolee.studyfcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmSBdMPdrXqE_2eFkjWJROACFL9xRTXj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
